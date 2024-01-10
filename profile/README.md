@@ -1,5 +1,7 @@
-## Hi there 👋
+## ¡Hola! 👋
+Bienvenido a los proyectos de los Wonderdevs.
 
+<img src="../metrics.plugin.anilist.svg" alt="" />
 <!--
 
 **Here are some ideas to get you started:**
